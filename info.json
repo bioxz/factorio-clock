@@ -1,0 +1,10 @@
+{
+	"name": "clock",
+	"version": "0.0.1",
+	"title": "Factorio Clock",
+	"description": "Game clock for Factorio",
+	"author": "bioxz",
+	"contact": "bioxz@stderr.cc",
+	"homepage": "https://stderr.cc/~bioxz/",
+	"dependencies": ["base"]
+}
